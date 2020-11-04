@@ -7,13 +7,13 @@
 
 * catatan
 
-| buatlah database dengan nama "db_crud", lalu cari file dengan nama data.sql, masuk ke database nya lalu import file data.sql nya
+* buatlah database dengan nama "db_crud", lalu cari file dengan nama data.sql, masuk ke database nya lalu import file data.sql nya
 
-| jika kalian ingin memberikan krikitan terhadap program yang saya buat ini bisa kirimkan pesan ke email saya di bawah ini
-| email : candradwicahyo18@gmail.com
+* jika kalian ingin memberikan krikitan terhadap program yang saya buat ini bisa kirimkan pesan ke email saya di bawah ini
+* email : candradwicahyo18@gmail.com
 
-| sekian dari saya dan terima kasih
+* sekian dari saya dan terima kasih
 
 
 
-| © copyright by candradwicahyo 2020
+* © copyright by candradwicahyo 2020
