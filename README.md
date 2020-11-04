@@ -1,8 +1,8 @@
 # php_crud_image
 
-• mohon untuk dibaca terlebih dahulu sebelum mendownload code program ini
+* mohon untuk dibaca terlebih dahulu sebelum mendownload code program ini
 
-| program ini dibuat dengan bantuan html5, css3, vanilla javascript, bootstrap, fontawesome, sweetalert2 dan tentunya juga menggunakan php native.
+* program ini dibuat dengan bantuan html5, css3, vanilla javascript, bootstrap, fontawesome, sweetalert2 dan tentunya juga menggunakan php native.
 
 
 * catatan
